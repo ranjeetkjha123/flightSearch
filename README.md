@@ -4,7 +4,7 @@ Flight Search created using ReactJs
 # Installation
 
 ```sh
-$ git clone
+$ git clone https://github.com/ranjeetkjha123/flightSearch.git
 $ npm i
 ```
 
